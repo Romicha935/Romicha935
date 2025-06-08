@@ -1,67 +1,38 @@
-# 👋 Hi, I'm Romicha Parvin
+<h1 align="center">Hi 👋, I'm Romicha Parvin</h1>
+<h3 align="center">Frontend Developer | MERN Stack Learner</h3>
 
-### 💻 Frontend Developer | MERN Stack Learner  
-`Username:` romicha935  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romicha935&label=Profile%20views&color=0e75b6&style=flat" alt="romicha935" /> </p>
 
----
+- 🌱 I’m currently learning **MERN Stack Development**
 
-🌱 I’m currently learning **MERN Stack Development**  
-🎓 Diploma in Computer Technology, Rangpur Polytechnic Institute  
-📍 Based in Bangladesh
+- 💻 Skills: **HTML | CSS | Bootstrap5 | Tailwind CSS | JavaScript | React.js | Firebase | MongoDB | Express.js | Git & GitHub**
 
----
+- 👩‍💻 All of my projects are available at [Portfolio](https://romicha-parvin.web.app)
 
-### 🚀 Skills & Technologies
-**Frontend:**  
-HTML5 | CSS3 | Bootstrap5 | Tailwind CSS | JavaScript | React.js
+- 📫 Reach me at: **romichaparvin35@gmail.com**
 
-**Backend & Tools:**  
-Firebase | MongoDB | Express.js | Git & GitHub
+- ⚡ Fun fact: **I Think I am funny 😄**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.facebook.com/profile.php?id=100061687152036" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/romicha-parvin-402a16352/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
 
-### 🧠 Currently Exploring:
-- Node.js
-- REST API development
-- Full-stack project deployment
-
----
-
-### 📫 Contact Me
-📧 Email: **romichaparvin35@gmail.com**  
-🔗 Portfolio: [romicha-parvin.web.app](https://romicha-parvin.web.app)  
-🔗 LinkedIn: [linkedin.com/in/romicha-parvin-402a16352](https://www.linkedin.com/in/romicha-parvin-402a16352)  
-🔗 Facebook: [facebook.com/romicha.parvin](https://www.facebook.com/profile.php?id=100061687152036)
-
----
-
-### 🌐 Projects
-🔹 **ElectroPoint** – E-commerce site with cart, auth & category filter  
-🔹 **Tour & Travel** – Travel website with smooth animations  
-🔹 **Online Class Site** – Category-based course listing + cart feature  
-🖱️ Check them all in my [Portfolio](https://romicha-parvin.web.app)
-
----
-
-### ⚡ Fun Fact
-I think I’m funny… at least my code thinks so 😄
-
----
-
-### 🛠️ Languages and Tools
-![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
----
-
-📌 *Thanks for visiting my GitHub profile! Feel free to check out my projects or contact me for collaboration.* 😊
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+</p>
