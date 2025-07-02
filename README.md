@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💻 Skills: **HTML | CSS | Bootstrap5 | Tailwind CSS | JavaScript | React.js | Firebase | MongoDB | Express.js | Git & GitHub**
+- 💻 Skills: **HTML | CSS | Bootstrap5 | Tailwind CSS | JavaScript | React.js Next.js| Typescript| Redux| Context API| Rest API| Firebase | MongoDB | Express.js | Git & GitHub**
 
 - 👩‍💻 All of my projects are available at [Portfolio](https://romicha-parvin.web.app)
 
@@ -35,4 +35,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="context api" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="rest api" width="40" height="40"/>
 </p>
+
