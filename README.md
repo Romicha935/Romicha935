@@ -1,13 +1,20 @@
 <!-- Header / Background Image -->
-![Header](https://i.ibb.co.com/qLbTT3Bd/github-background.jpg)  
-<!-- 👉 এখানে তুমি নিজের কাস্টম ইমেজ/ব্যানার বসাতে পারবে -->
+<p align="center">
+  <img src="https://i.ibb.co.com/qLbTT3Bd/github-background.jpg" width="100%" height="300px" alt="Header" />
+</p>
 
-# 👩‍💻 Romicha Parvin  
+<h1 align="center">👩‍💻 Romicha Parvin</h1>
+<h3 align="center">Frontend Developer | MERN Stack Learner</h3>
 
-**Frontend Developer | MERN Stack Learner**  
+<p align="center">
+  📞 Phone: +8801775897617 <br/>
+  📧 Email: <a href="mailto:romichaparvin35@gmail.com">romichaparvin35@gmail.com</a>
+</p>
 
-📞 Phone: +8801775897617  
-📧 Email: romichaparvin35@gmail.com  
+<p align="center">
+  <!-- Profile Views Counter -->
+  ![Profile views](https://komarev.com/ghpvc/?username=Romicha935&label=Profile%20views&color=0e75b6&style=flat)
+</p>
 
 ---
 
@@ -52,8 +59,13 @@ I love to create responsive, user-friendly web applications and continuously imp
 
 ## 📊 GitHub Stats  
 
-![Romicha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
