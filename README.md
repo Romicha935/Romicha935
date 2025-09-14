@@ -1,20 +1,13 @@
-<!-- Header / Background Image -->
-<p align="center">
-  <img src="https://i.ibb.co.com/qLbTT3Bd/github-background.jpg" width="100%" height="300px" alt="Header" />
-</p>
-
-<h1 align="center">👩‍💻 Romicha Parvin</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner</h3>
-
-<p align="center">
-  📞 Phone: +8801775897617 <br/>
-  📧 Email: <a href="mailto:romichaparvin35@gmail.com">romichaparvin35@gmail.com</a>
-</p>
-
-<p align="center">
-  <!-- Profile Views Counter -->
+<!-- Profile Views Badge -->
+<p align="left">
   ![Profile views](https://komarev.com/ghpvc/?username=Romicha935&label=Profile%20views&color=0e75b6&style=flat)
 </p>
+<!-- Header / Custom Background Image -->
+<p align="center">
+  <img src="https://i.ibb.co/your-custom-header.jpg" width="100%" alt="Header"/>
+</p>
+
+
 
 ---
 
