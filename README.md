@@ -27,7 +27,7 @@ Practices: Agile development, RESTful API design, Secure authentication, Perform
 I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
 
 ## 🛠 Skills & Tools  
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <!-- Frontend -->
     <td align="center" style="border:1px solid #ddd; padding:10px;">
