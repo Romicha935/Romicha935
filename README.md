@@ -2,7 +2,7 @@
 
 <!-- Header / Custom Background Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/mrN7ttGM/github.png" width="100%"  alt="Header"/>
+  <img src="https://i.ibb.co.com/mrN7ttGM/github.png" width="100%" style="height:250px;"  alt="Header"/>
 </p>
 
 <!-- Profile Views Badge -->
