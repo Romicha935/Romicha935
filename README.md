@@ -28,22 +28,56 @@ I love solving complex problems, writing clean and efficient code, and constantl
 
 ## 🛠 Skills & Tools  
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,vite,next,ts" />
-</p>
+## 🛠 Skills & Tools
 
-<p align="left">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-<p align="left">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
+<table>
+  <tr>
+    <!-- Frontend -->
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=next" width="50"/><br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <!-- Backend -->
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+    </td>
+  </tr>
+  <tr>
+    <!-- Tools -->
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px;">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
+    </td>
+    <td colspan="3"></td> <!-- খালি স্পেস -->
+  </tr>
+</table>
 
 ## 📌 Featured Projects  
 
@@ -59,9 +93,12 @@ I love solving complex problems, writing clean and efficient code, and constantl
   <img src="https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+🔥 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=default&theme=radical&langs_count=10" alt="Top Languages"/>
 </p>
+
+
 
 ---
 
