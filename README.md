@@ -1,62 +1,66 @@
+<!-- Header / Background Image -->
+![Header](https://i.ibb.co/qCNQCrJ/github-header.png)  
+<!-- 👉 এখানে তুমি নিজের কাস্টম ইমেজ/ব্যানার বসাতে পারবে -->
 
-# Hi, I'm Romicha Parvin 👋  
+# 👩‍💻 Romicha Parvin  
 
-🚀 **Frontend Developer | MERN Stack Learner**  
-💻 Passionate about building responsive & user-friendly websites  
+**Frontend Developer | MERN Stack Learner**  
 
----
-
-## 👩‍🎓 About Me  
-- 🎓 Diploma in Computer Technology, Rangpur Polytechnic Institute  
-- 🌱 Currently learning **MERN Stack (MongoDB, Express.js, React, Node.js)**  
-- 💡 Interested in **Frontend Development** & modern web technologies  
-- 🌍 From Rangpur, Bangladesh  
+📞 Phone: +8801775897617  
+📧 Email: romichaparvin35@gmail.com  
 
 ---
 
-## 🛠️ Skills  
+## ✨ About Me  
 
-**Frontend:**  
-HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | React.js | Next.js | Shadcn UI  
+I am **Romicha Parvin**, a passionate Frontend Developer and MERN Stack learner.  
+I love to create responsive, user-friendly web applications and continuously improve my skills with modern technologies.  
 
-**Backend & Database:**  
-Node.js | Express.js | MongoDB | Firebase | REST API  
+🎓 Diploma in Computer Technology – Rangpur Polytechnic Institute  
+🌱 Currently learning **MongoDB, Express.js, React, Node.js (MERN)**  
+💡 Exploring **Next.js, TypeScript, Redux, Context API**  
+🌍 From Rangpur, Bangladesh  
 
-**Tools & Others:**  
-Git | GitHub | VS Code | Context API | Redux (learning) | TypeScript  
+---
+
+## 🛠 Skills & Tools  
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,vite,next,ts" />
+</p>
+
+<p align="left">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+<p align="left">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 **[Book Management System](https://book-managment-system-mern.vercel.app/)**  
-*MERN Stack Project* – Add, update, delete, and manage books with  MongoDB backend.  
-
-🔹 **[ShopNext](https://shop-next-vryf.vercel.app/)**  
-*Next.js + TypeScript + Shadcn* – A modern e-commerce site with clean UI, product management, and responsive design.  
-
-🔹 **[HealthEase](https://health-eash.vercel.app/)**  
-*React + Tailwind* – Health service platform with responsive UI and dynamic content.  
+- [📚 Book Management System](https://book-managment-system-mern.vercel.app/) — MERN stack project  
+- [🛍 ShopNext](https://shop-next-vryf.vercel.app/) — Next.js + TypeScript + Shadcn  
+- [🏥 HealthEase](https://health-eash.vercel.app/) — React + Tailwind  
 
 ---
 
 ## 📊 GitHub Stats  
 
 ![Romicha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&theme=radical)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Connect with Me  
+## 🌐 Connect with Me  
 
 - 🌐 Portfolio: [romicha-parvin.web.app](https://romicha-parvin.web.app)  
 - 📧 Email: **romichaparvin35@gmail.com**  
+- 📞 Phone: +8801775897617  
 - 🔗 Facebook: [Romicha Parvin](https://www.facebook.com/profile.php?id=100061687152036)  
 - 💼 LinkedIn: [Romicha Parvin](https://www.linkedin.com/in/romicha-parvin-402a16352)  
-
----
-
-⭐️ *"Continuously learning, building, and growing as a developer."* 🚀  
-
-
