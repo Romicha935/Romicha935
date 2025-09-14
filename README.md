@@ -1,7 +1,8 @@
 <!-- Profile Views Badge -->
 <p align="left">
-  ![Profile views](https://komarev.com/ghpvc/?username=Romicha935&label=Profile%20views&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=Romicha935&color=0e75b6&style=flat" alt="Views"/>
 </p>
+
 <!-- Header / Custom Background Image -->
 <p align="center">
   <img src="https://i.ibb.co.com/0V2t2TWn/github-Bg-Img.png" width="100%" alt="Header"/>
@@ -12,16 +13,20 @@
 ---
 
 ## ✨ About Me  
+Assalamualaikum and welcome!
 
-I am **Romicha Parvin**, a passionate Frontend Developer and MERN Stack learner.  
-I love to create responsive, user-friendly web applications and continuously improve my skills with modern technologies.  
+I am Romicha Parvin, a motivated Frontend and MERN Stack Developer with a Diploma in Computer Technology from Rangpur Polytechnic Institute and completed industrial attachment at E-learning & Earning Ltd. in Full Stack Development. Proficient in HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Firebase, Redux, Context API, Postman, Git, GitHub, MongoDB, Express, and Node.js.
 
-🎓 Diploma in Computer Technology – Rangpur Polytechnic Institute  
-🌱 Currently learning **MongoDB, Express.js, React, Node.js (MERN)**  
-💡 Exploring **Next.js, TypeScript, Redux, Context API**  
-🌍 From Rangpur, Bangladesh  
+I have developed multiple projects leveraging these technologies, focusing on creating responsive, user-friendly, and efficient web applications. With a strong foundation in both frontend and backend development, I am enthusiastic about contributing as a Frontend or MERN Stack Developer, continuously learning new tools, and delivering high-quality solutions.
 
----
+🔧 What i use :
+Frontend: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI
+Backend: Node.js, Express.js, MongoDB, 
+Dev Tools: Figma, Firebase, Git, VS Code
+Practices: Agile development, RESTful API design, Secure authentication, Performance optimization
+
+💬 What Drives Me:
+I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
 
 ## 🛠 Skills & Tools  
 
