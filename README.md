@@ -1,5 +1,5 @@
 <!-- Header / Background Image -->
-![Header](https://i.ibb.co/qCNQCrJ/github-header.png)  
+![Header](https://i.ibb.co.com/qLbTT3Bd/github-background.jpg)  
 <!-- 👉 এখানে তুমি নিজের কাস্টম ইমেজ/ব্যানার বসাতে পারবে -->
 
 # 👩‍💻 Romicha Parvin  
