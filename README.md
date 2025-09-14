@@ -26,58 +26,33 @@ Practices: Agile development, RESTful API design, Secure authentication, Perform
 💬 What Drives Me:
 I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
 
-## 🛠 Skills & Tools  
-<table align="center" width="100%">
+## 🛠 Skills & Tools
+
+<table align="center" width="100%" style="border-collapse: collapse; text-align:center;">
   <tr>
-    <!-- Frontend -->
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=next" width="50"/><br>Next.js
-    </td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=next" width="50"/><br>Next.js</td>
   </tr>
   <tr>
-    <!-- Backend -->
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-    </td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
   </tr>
   <tr>
-    <!-- Tools -->
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
-    </td>
-    <td colspan="3"></td> <!-- খালি স্পেস -->
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"></td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"></td>
+    <td style="border:1px solid #ddd; padding:15px; width:20%;"></td>
   </tr>
 </table>
 
-
-
+---
 
 ## 📌 Featured Projects  
 
@@ -89,14 +64,18 @@ I love solving complex problems, writing clean and efficient code, and constantl
 
 ## 📊 GitHub Stats  
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-🔥 Top Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=compact&theme=radical" alt="Top Languages"/>
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=default&theme=radical&langs_count=10" alt="Top Languages"/>
 </p>
+
 
 
 ## 🌐 Connect with Me  
