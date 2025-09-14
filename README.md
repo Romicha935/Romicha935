@@ -1,11 +1,22 @@
 
 
 <!-- Header / Custom Background Image -->
-<p align="center">
-  <img src="https://i.ibb.co.com/LhXqVY1X/Chat-GPT-Image-Sep-14-2025-10-44-25-PM.png" 
-       style="width:100%; height:250px; object-fit:cover;" 
-       alt="Header"/>
+<p align="center" style="position: relative; overflow: hidden; width: 100%; height: 200px;">
+  <img src="https://i.ibb.co.com/0pRDbn5g/romicha-bg-resized.png"
+       style="width:100%; height:200px; object-fit:cover;"
+       alt="Header Background"/>
+
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+              color: white; text-align: center; font-family: Arial, sans-serif;">
+    <h1 style="margin: 0; font-size: 36px; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">
+      Romicha Parvin
+    </h1>
+    <p style="margin: 5px 0 0 0; font-size: 20px; text-shadow: 1px 1px 3px rgba(0,0,0,0.7);">
+      Frontend Developer | MERN Stack Developer
+    </p>
+  </div>
 </p>
+
 
 
 <!-- Profile Views Badge -->
