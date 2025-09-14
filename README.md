@@ -2,16 +2,13 @@
 
 <!-- Header / Custom Background Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/0V2t2TWn/github-Bg-Img.png" width="100%" h-"300px" alt="Header"/>
+  <img src="https://i.ibb.co.com/0V2t2TWn/github-Bg-Img.png" width="100%" height-"300px" alt="Header"/>
 </p>
 
 <!-- Profile Views Badge -->
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=Romicha935&color=0e75b6&style=flat" alt="Views"/>
 </p>
-
-
----
 
 ## ✨ About Me  
 Assalamualaikum and welcome!
