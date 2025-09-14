@@ -27,54 +27,35 @@ Practices: Agile development, RESTful API design, Secure authentication, Perform
 I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
 
 ## 🛠 Skills & Tools  
-<table align="center" width="100%">
+
+<table align="center" width="100%" style="border-collapse: collapse; text-align:center;">
   <tr>
     <!-- Frontend -->
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=next" width="50"/><br>Next.js
-    </td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=next" width="50"/><br>Next.js</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=vite" width="50"/><br>Vite</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=context" width="50"/><br>Context API</td>
   </tr>
   <tr>
     <!-- Backend -->
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-    </td>
-  </tr>
-  <tr>
-    <!-- Tools -->
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
-    </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px;">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
-    </td>
-    <td colspan="3"></td> <!-- খালি স্পেস -->
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
+    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman</td>
+    <td colspan="2"></td>
   </tr>
 </table>
+
 
 
 
