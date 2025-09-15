@@ -3,7 +3,7 @@
 <p align="center">
   <h1>Romicha Parvin</h1>
   <h3>Frontend Developer | MERN Stack Developer</h3>
-  <p>📞 Phone: +880 1XXX-XXXXXX</p>
+  <p>📞 Phone: +8801775897617</p>
   <p>📧 Email: romichaparvin35@gmail.com</p>
 </p>
 
