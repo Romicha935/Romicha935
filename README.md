@@ -2,9 +2,11 @@
 
 <!-- Header / Custom Background Image --
 <p align="center">
-  <img src="https://i.ibb.co.com/vrcQqB9/Chat-GPT-Image-Sep-15-2025-07-24-40-AM.png" 
+  <img src="https://i.ibb.co/vrcQqB9/Chat-GPT-Image-Sep-15-2025-07-24-40-AM.png" 
        width="100%" height="200px" alt="Header Background"/>
 </p>
+
+
 <!-- Profile Views Badge -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Romicha935&color=0e75b6&style=flat" alt="Views"/>
