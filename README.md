@@ -2,7 +2,7 @@
 
 <!-- Header / Custom Background Image --
 <p align="center">
-  <img src="https://i.ibb.co/vrcQqB9/Chat-GPT-Image-Sep-15-2025-07-24-40-AM.png" 
+  <img src="https://i.ibb.co.com/vrcQqB9/Chat-GPT-Image-Sep-15-2025-07-24-40-AM.png" 
        width="100%" height="200px" alt="Header Background"/>
 </p>
 
