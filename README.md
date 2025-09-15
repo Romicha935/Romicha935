@@ -1,10 +1,12 @@
 
 
-<!-- Header / Custom Background Image --
 <p align="center">
-  <img src="https://i.ibb.co.com/r2KGDcYG/Chat-GPT-Image-Sep-15-2025-01-32-22-PM-2-1.png" 
-       width="100%" alt="Header Background"/>
+  <h1>Romicha Parvin</h1>
+  <h3>Frontend Developer | MERN Stack Developer</h3>
+  <p>📞 Phone: +880 1XXX-XXXXXX</p>
+  <p>📧 Email: romichaparvin35@gmail.com</p>
 </p>
+
 
 
 
