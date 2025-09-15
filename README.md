@@ -3,7 +3,7 @@
 <!-- Header / Custom Background Image --
 <p align="center">
   <img src="https://i.ibb.co.com/TBbYF4KH/gitromicha.png" 
-       width="100%" height="200px" alt="Header Background"/>
+       width="100%" alt="Header Background"/>
 </p>
 
 
