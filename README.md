@@ -23,9 +23,9 @@ I am Romicha Parvin, a motivated Frontend and MERN Stack Developer with a Diplom
 I have developed multiple projects leveraging these technologies, focusing on creating responsive, user-friendly, and efficient web applications. With a strong foundation in both frontend and backend development, I am enthusiastic about contributing as a Frontend or MERN Stack Developer, continuously learning new tools, and delivering high-quality solutions.
 
 🔧 What i use :
-Frontend: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI
-Backend: Node.js, Express.js, MongoDB, 
-Dev Tools: Figma, Firebase, Git, VS Code
+Frontend: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI                                                                                                        
+Backend: Node.js, Express.js, MongoDB,                                                                                                                                        
+Dev Tools: Figma, Firebase, Git, VS Code                                                                                                                                      
 Practices: Agile development, RESTful API design, Secure authentication, Performance optimization
 
 💬 What Drives Me:
