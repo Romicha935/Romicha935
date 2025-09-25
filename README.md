@@ -79,10 +79,11 @@ I love solving complex problems, writing clean and efficient code, and constantl
   <img src="https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-## 🔥 GitHub Streak  
+ 🔥 GitHub Streak  
+
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=Romicha935&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Romicha935&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 
