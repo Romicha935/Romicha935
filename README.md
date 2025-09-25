@@ -81,10 +81,8 @@ I love solving complex problems, writing clean and efficient code, and constantl
 
  🔥 GitHub Streak  
 
+![GitHub Streak](https://img.shields.io/badge/Current%20Streak-🔥%20DAY_COUNT-orange)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Romicha935&theme=radical" alt="GitHub Streak Stats"/>
-</p>
 
 
 🔥 Top Languages
