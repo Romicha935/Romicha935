@@ -81,7 +81,9 @@ I love solving complex problems, writing clean and efficient code, and constantl
 
  🔥 GitHub Streak  
 
-![GitHub Streak](https://img.shields.io/badge/Current%20Streak-🔥%20DAY_COUNT-orange)
+
+![Romicha's GitHub Contributions](https://ghchart.rshah.org/Romicha935)
+
 
 
 
