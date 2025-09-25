@@ -79,6 +79,11 @@ I love solving complex problems, writing clean and efficient code, and constantl
   <img src="https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+🔥 Current Streak
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Romicha935&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
 🔥 Top Languages
 <p width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=compact&theme=radical" alt="Top Languages"/>
