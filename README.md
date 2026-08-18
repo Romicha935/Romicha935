@@ -50,82 +50,24 @@ I enjoy solving problems, learning new technologies, improving application perfo
 
 ---
 
-## 💻 What I Work With
+## 🛠️ What I Work With
 
 ### 🎨 Frontend Development
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-- Redux Toolkit
-- Vite
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,redux,vite" />
+</p>
 
 ### ⚙️ Backend — Currently Learning
 
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
-- JWT Authentication
-- PostgreSQL
-- Prisma ORM
-- MongoDB
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,prisma" />
+</p>
 
 ### 🧰 Tools & Platforms
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Firebase
-- Vercel
-- Figma
-
----
-
-# 🛠️ Skills & Technologies
-
-## Frontend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" />
-</p>
-
-## Backend — Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=nestjs" width="50" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgresql" width="50" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="50" alt="Prisma" />
-</p>
-
-## Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,figma" />
 </p>
 
 
