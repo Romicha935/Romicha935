@@ -128,6 +128,56 @@ I enjoy solving problems, learning new technologies, improving application perfo
   <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" />
 </p>
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=compact&langs_count=8&theme=radical&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Romicha935&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Romicha935&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Romicha935/Romicha935/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
 ---
 
 # 📌 Featured Projects
