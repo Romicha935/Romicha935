@@ -1,94 +1,192 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=180&section=header&text=Romicha%20Parvin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
+<h3 align="center">
+  Frontend Developer | MERN Stack Developer
+</h3>
 
 <p align="center">
-  <h1>Romicha Parvin</h1>
-  <h3>Frontend Developer | MERN Stack Developer</h3>
-  <p>📞 Phone: +8801775897617</p>
-  <p>📧 Email: romichaparvin35@gmail.com</p>
+  <a href="https://romicha-parvin.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/romicha-parvin-402a16352">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:romichaparvin35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-
-
-
-<!-- Profile Views Badge -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Romicha935&color=0e75b6&style=flat" alt="Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Romicha935&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
-
-## ✨ About Me  
-Assalamualaikum and welcome!
-
-I am Romicha Parvin, a motivated Frontend and MERN Stack Developer with a Diploma in Computer Technology from Rangpur Polytechnic Institute and completed industrial attachment at E-learning & Earning Ltd. in Full Stack Development. Proficient in HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Firebase, Redux, Context API, Postman, Git, GitHub, MongoDB, Express, and Node.js.
-
-I have developed multiple projects leveraging these technologies, focusing on creating responsive, user-friendly, and efficient web applications. With a strong foundation in both frontend and backend development, I am enthusiastic about contributing as a Frontend or MERN Stack Developer, continuously learning new tools, and delivering high-quality solutions.
-
-🔧 What I use :                                                                                                                                                               
-Frontend: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI, Email.js, JavaScript, TypeScript                                                                                                        
-Backend: Node.js, Express.js, MongoDB,                                                                                                                                        
-Dev Tools: Figma, Firebase, Git, VS Code                                                                                                                                      
-Practices: Agile development, RESTful API design, Secure authentication, Performance optimization
-
-💬 What Drives Me:
-I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
-
-## 🛠 Skills & Tools  
-
-<table align="center" width="100%" style="border-collapse: collapse; text-align:center;">
-  <tr>
-    <!-- Frontend -->
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=next" width="50"/><br>Next.js</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=vite" width="50"/><br>Vite</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=context" width="50"/><br>Context API</td>
-  </tr>
-  <tr>
-    <!-- Backend -->
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
-    <td style="border:1px solid #ddd; padding:15px;"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman</td>
-    <td colspan="2"></td>
-  </tr>
-</table>
-
-
-
-
-
-## 📌 Featured Projects  
-
-- [📚 Book Management System](https://book-managment-system-mern.vercel.app/) — MERN stack project  
-- [🛍 ShopNext](https://shop-next-vryf.vercel.app/) — Next.js + TypeScript + Shadcn  
-- [🏥 HealthEase](https://health-eash.vercel.app/) — React + Tailwind  
 
 ---
 
-## 📊 GitHub Stats  
+## 👋 About Me
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Romicha935&show_icons=true&theme=radical" alt="GitHub Stats" />
+Hi, I'm **Romicha Parvin**, a passionate **Frontend Developer and MERN Stack Developer** from Bangladesh.
+
+I completed my **Diploma in Engineering in Computer Technology** from **Rangpur Polytechnic Institute** and completed my industrial attachment in **Full Stack Development**.
+
+I have experience building responsive and user-friendly web applications using **React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux Toolkit, and Firebase**.
+
+Currently, I am **expanding my backend development skills** and learning how to build secure, scalable, and maintainable APIs using **Node.js, Express.js, NestJS, PostgreSQL, and Prisma**.
+
+I enjoy solving problems, learning new technologies, improving application performance, and writing clean and maintainable code.
+
+### 🚀 Currently Learning
+
+- Backend Development with **Node.js & Express.js**
+- **NestJS & TypeScript**
+- **PostgreSQL & Prisma ORM**
+- RESTful API Development
+- Authentication & Authorization
+- API Validation
+- Pagination & Filtering
+- Database Design
+- Clean and Maintainable Code
+
+---
+
+## 💻 What I Work With
+
+### 🎨 Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
+- Redux Toolkit
+- Vite
+
+### ⚙️ Backend — Currently Learning
+
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
+- JWT Authentication
+- PostgreSQL
+- Prisma ORM
+- MongoDB
+
+### 🧰 Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Firebase
+- Vercel
+- Figma
+
+---
+
+# 🛠️ Skills & Technologies
+
+## Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" />
 </p>
 
-🔥 Top Languages
-<p width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romicha935&layout=compact&theme=radical" alt="Top Languages"/>
+## Backend — Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" width="50" alt="NestJS" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="50" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="50" alt="Prisma" />
 </p>
 
+## Tools
 
-## 🌐 Connect with Me  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" />
+</p>
 
-- 🌐 Portfolio: [romicha-parvin.web.app](https://romicha-parvin.web.app)  
-- 📧 Email: **romichaparvin35@gmail.com**  
-- 📞 Phone: +8801775897617  
-- 🔗 Facebook: [Romicha Parvin](https://www.facebook.com/profile.php?id=100061687152036)  
-- 💼 LinkedIn: [Romicha Parvin](https://www.linkedin.com/in/romicha-parvin-402a16352)  
+---
+
+# 📌 Featured Projects
+
+## 📚 Book Management System
+
+A full-stack book management application built with the **MERN stack**.
+
+**Technologies:**
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+🔗 **Live Demo:**  
+https://book-managment-system-mern.vercel.app/
+
+---
+
+## 🛍️ ShopNext
+
+A modern e-commerce frontend application built with **Next.js, TypeScript, and Shadcn UI**.
+
+**Technologies:**
+`Next.js` `TypeScript` `Tailwind CSS` `Shadcn UI`
+
+🔗 **Live Demo:**  
+https://shop-next-vryf.vercel.app/
+
+---
+
+## 🏥 HealthEase
+
+A responsive healthcare-focused web application built with **React and Tailwind CSS**.
+
+**Technologies:**
+`React.js` `Tailwind CSS` `JavaScript`
+
+🔗 **Live Demo:**  
+https://health-eash.vercel.app/
+
+---
+
+# 🏗️ Current Learning Journey
+
+I'm currently strengthening my backend fundamentals and working toward becoming a stronger full-stack developer.
+
+```text
+Frontend Development
+        ↓
+React.js + Next.js
+        ↓
+TypeScript + Redux Toolkit
+        ↓
+Node.js + Express.js
+        ↓
+REST API Development
+        ↓
+NestJS
+        ↓
+PostgreSQL + Prisma
+        ↓
+Authentication & Authorization
+        ↓
+Better Full-Stack Development
