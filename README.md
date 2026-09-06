@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading romicha-parvin-github-banner.png…]()
-" alt="Romicha Parvin banner" width="100%" />
+  <img src="https://ibb.co.com/60HgR6D2" alt="Romicha Parvin banner" width="100%" />
 </p>
 
 <p align="center">
