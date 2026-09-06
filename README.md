@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=Building+clean%2C+scalable+web+applications;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Prisma" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=Building+clean%2C+scalable+web+applications;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Prisma" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,31 +34,30 @@ I'm a Frontend & Full Stack Developer from Bangladesh, working primarily across 
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0B1120?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Redux-0B1120?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+</p>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0B1120?style=for-the-badge&logo=nodedotjs&logoColor=68A063" />
+  <img src="https://img.shields.io/badge/Express-0B1120?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-0B1120?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1120?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-0B1120?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-0B1120?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
 
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,prisma,mongodb" />
-
-</td>
-<td valign="top" width="33%">
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-0B1120?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Figma-0B1120?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Vercel-0B1120?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 <br />
 
@@ -91,51 +88,32 @@ I'm a Frontend & Full Stack Developer from Bangladesh, working primarily across 
 
 <br />
 
-## Featured Projects
+## Featured Project
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<p align="center">
+  <img src="./assets/erp-hr-preview.png" alt="ERP HR System preview" width="100%" />
+</p>
 
-**Book Management System**
+### ERP System — HR Management
+
+A full-stack HR & ERP platform covering staff records, payroll, inventory, procurement, and organization-wide notifications — built as a production-style multi-module system rather than a single-feature demo.
+
+**Highlights**
+- JWT authentication with access + refresh token rotation
+- Role-based access control across HR, admin, and staff views
+- File uploads (profile photos, documents) via Cloudinary
+- Modular backend — separate services for staff, payroll, inventory, procurement, and notifications
+- Responsive dashboard with a collapsible mobile sidebar
+
+**Stack**
 <br/>
-Full-stack book management app.
-<br/><br/>
-`React` `Node.js` `Express` `MongoDB`
-<br/><br/>
-<a href="https://book-managment-system-mern.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+`Next.js` `TypeScript` `Redux Toolkit` `Tailwind CSS` `NestJS` `PostgreSQL` `Prisma`
 
-</td>
-<td width="33%" valign="top">
-
-**ShopNext**
-<br/>
-E-commerce frontend with a full storefront UI.
-<br/><br/>
-`Next.js` `TypeScript` `Tailwind` `Shadcn UI`
-<br/><br/>
-<a href="https://shop-next-vryf.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-<td width="33%" valign="top">
-
-**HealthEase**
-<br/>
-Responsive healthcare-focused web app.
-<br/><br/>
-`React` `Tailwind CSS` `JavaScript`
-<br/><br/>
-<a href="https://health-eash.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://erp-system-hr.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 <br />
 
