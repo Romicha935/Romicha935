@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://romicha-parvin.web.app">
+  <a href="https://romichas-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0B1120" />
   </a>
   <a href="https://www.linkedin.com/in/romicha-parvin-402a16352">
