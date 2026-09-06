@@ -33,31 +33,39 @@ I'm a Frontend & Full Stack Developer from Bangladesh, working primarily across 
 <br />
 
 ## Tech Stack
+## Tech Stack
+
+### Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Next.js-0B1120?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Redux-0B1120?style=for-the-badge&logo=redux&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0B1120?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Express-0B1120?style=for-the-badge&logo=express&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/NestJS-0B1120?style=for-the-badge&logo=nestjs&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1120?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Prisma-0B1120?style=for-the-badge&logo=prisma&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/MongoDB-0B1120?style=for-the-badge&logo=mongodb&logoColor=38BDF8" />
-</p>
+### Backend & Database
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Postman-0B1120?style=for-the-badge&logo=postman&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Figma-0B1120?style=for-the-badge&logo=figma&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Vercel-0B1120?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2D3748" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+</p>
+
 
 <br />
 
