@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/60HgR6D2" alt="Romicha Parvin banner" width="100%" />
+  <img src="public/fonts/romicha-parvin-github-banner.png" alt="Romicha Parvin banner" width="100%" />
 </p>
 
 <p align="center">
